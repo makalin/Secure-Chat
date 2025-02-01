@@ -42,8 +42,8 @@ A modern end-to-end encrypted chat application built with React and Node.js, fea
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/secure-chat-app.git
-cd secure-chat-app
+git clone https://github.com/makalin/Secure-Chat.git
+cd Secure-Chat
 ```
 
 2. Install dependencies:
